@@ -6,7 +6,8 @@ link to game page: https://ghostyrz.itch.io/spacetoon-game-childhood-memories
 
 link to submission page: https://itch.io/jam/indie-game-dev-beginners-002/rate/1858142
 
-.
+
+
 Spacetoon is a popular old kid's Tv channel in the arab speaking world.
 
 It sure has a sweet spot in the hearts of many young adults, its old themes and shows always have a nostalgic feel to them. 
