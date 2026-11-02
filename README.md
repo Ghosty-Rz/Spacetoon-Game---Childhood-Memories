@@ -2,9 +2,12 @@
  
 First Game made for a game jam hosted by nerdifex
 
-link to game page: https://ghostyrz.itch.io/spacetoon-game-childhood-memories
+Designed and developed a complete game using Unity in 5 days for a game jam hosted by nerdifex for beginners.
 
-link to submission page: https://itch.io/jam/indie-game-dev-beginners-002/rate/1858142
+Submitted last minute lol, making all the animations and about half of the art assets myself.
 
-Designed and developed a complete game using Unity in 5 days for a game jam hosted by nerdifex for beginners
+Link to game page: https://ghostyrz.itch.io/spacetoon-game-childhood-memories
+
+Link to submission page: https://itch.io/jam/indie-game-dev-beginners-002/rate/1858142
+
 December 2022
